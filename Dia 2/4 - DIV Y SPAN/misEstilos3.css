@@ -1,0 +1,9 @@
+.calculo{
+    font-family: Arial, sans-serif;
+    background-color: rgb(181, 181, 181);
+}
+
+.resultado{
+    color: rgb(236, 13, 13);
+    font-weight: bold;
+}
